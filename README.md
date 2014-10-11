@@ -10,5 +10,6 @@ monitorscript.pl -> checks status of tv, and enables it and sound accordingly.
 
 Resources:
 http://www.nirsoft.net/utils/multi_monitor_tool.html
+
 http://www.nirsoft.net/utils/nircmd.html
 

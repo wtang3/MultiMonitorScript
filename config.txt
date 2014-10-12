@@ -1,3 +1,0 @@
-monitornumber=
-computermedia=
-televisionmedia=
